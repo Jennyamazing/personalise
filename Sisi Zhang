@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      
+        <title>Sisi zhang</title>
+        <link rel="stylesheet" href="./Css/style.css">
+        <link href="./Css/style.css" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://colorhunt.co/palette/b3c8cfbed7dcf1eedce5ddc5">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&amp;family=Sacramento&amp;display=swap" rel="stylesheet">
+      </head>
 
+      <body>
+
+      </body>
+      <body cz-shortcut-listen="true" data-new-gr-c-s-check-loaded="14.1174.0" data-gr-ext-installed="">
+        <div class="top-container">
+          <img class="flyingcat" src="./images/flyingcat.jpeg" alt="flyingcat">
+          <div class="title-text">
+            <h1>I'm Sisi.</h1>
+            <h2>an <span class="mandarin"> mandarin </span> teacher.</h2>
+          </div>
+          <img class="bottom-cloud" src="./images/pinky-cloud.JPG" alt="pinky-cloud">
+      
+        </div>
+      
+        <div class="middle-container">
+          <div class="profile">
+            <img class="profile" src="./images/selfie.jpg" alt="Sisi-profile-img" height="200" >
+            <h2>Hello.</h2>
+            <p class="intro">
+                "I am experienced MYP Chinese teacher and inclusive pratitioner. I consider myself a lifelong learner and currently on the process of learning programming and building websites. I love food and music, I bake home-made cakes and breads." 
+            </p>
+          </div>
+          <hr>
+          <div class="skills">
+            <h2>My Skills</h2>
+            <div class="parent">
+              <div class="amazing">
+                <img class="amazing" src="./images/amazing pinguin.jpeg" alt="amazing pinguin">
+              </div>
+              <div class="teaching">
+                <h3>Teaching &amp;Mentor </h3>
+                <p>I have been working as a qualified Mandarin Chinese teacher for over five years, with experience teaching students from diverse age groups and mixed abilities.I like design adapting curriculum and learning plan. I believe every child is unique and deserves equal opportunities to reach their full potential.</p>
+              </div>
+              <div class="music">
+                <img class="music-img" src="./images/guzheng.png" alt="Guzheng">
+              </div>
+              <div class="Music">
+                <h3>Chinese intrument Guzheng </h3>
+                <p> I started to learn Guzheng since I was 10 and I have lots of fun of playing it. I like to try different types of music with this traditional intrument.</p>
+              </div>
+      
+            </div>
+      
+      
+            <hr>
+            <div class="contact-me">
+              <h2>Get In Touch</h2>
+              <h3>If you love music, food and exploring new things.</h3>
+              <p class="contact-message">Become a lifelong learner and learn more coding? Let's talk about how awesome they are! We can have a drink and a nice chat
+                no matter where you are!</p>
+              <a class="btn" href="./contact.html">CONTACT ME</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="bottom-container">
+          <a class="footer-link" href="https://www.linkedin.com/in/sisi-z-705066a1/">LinkedIn</a>
+          <a class="footer-link" href="https://twitter.com/letitbe_uolo">Twitter</a>
+          <a class="footer-link" href="https://www.instagram.com/asi_jennie">Instagram</a>
+          <p class="copyright">© Sisi Zhang.</p>
+        </div>
+    
+      </body>
+      <grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration>
+</html>
